@@ -44,8 +44,9 @@ Hints:
                In formulating this condition, don’t forget that your program did not generate the first prime (2).
                
 Use these ideas to guide the creation of your code.
-If you want to check that your code is correctly finding primes, 
+
 ***********************************************************************************
+*** If you want to check that your code is correctly finding primes, 
 *** you can find a list of primes at http://primes.utm.edu/lists/small/1000.txt.
 ***********************************************************************************
 

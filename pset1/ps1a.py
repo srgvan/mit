@@ -4,7 +4,7 @@
 # Problem Set 1
 # Name: Sergey Vardanyan
 # Collaborators: N/A 
-# Time: 
+# Time: 2 hours 
 #
 
 # Program that computes and prints the 1000th prime number.
